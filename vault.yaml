@@ -1,0 +1,12 @@
+name: linkedin-squad-mngjcumjocz
+version: 1.0.0
+type: squad
+description: "Squad para gestão de presença no LinkedIn: análise de tendências, geração de conteúdo, otimização de perfil e estratégia de personal branding."
+price: 0
+license: MIT
+entry: SQUAD.md
+tags:
+  - claude-code
+  - aiox
+  - linkedin
+  - analytics
