@@ -11,6 +11,7 @@ Squad para gestão de presença no LinkedIn: análise de tendências, geração 
 | **Author** | [@f0livora](https://myclaude.sh/u/f0livora) |
 | **License** | MIT |
 | **Price** | Free |
+| **Downloads** | 14 |
 
 ## Installation
 
